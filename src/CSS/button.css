@@ -1,0 +1,37 @@
+.btn {
+  font-size: inherit;
+  background: none;
+  border: none;
+  outline: none;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 5px 20px;
+  cursor: pointer;
+}
+.btn--primary {
+  color: white;
+  background-color: hsl(200, 200%, 50%);
+  margin-bottom: 5px;
+}
+.btn--primary:hover {
+  background-color: hsl(200, 200%, 35%);
+}
+.btn--danger {
+  color: white;
+  background-color: hsl(0, 200%, 50%);
+  display: block;
+}
+.btn--danger:hover {
+  background-color: hsl(0, 200%, 35%);
+}
+.btn--right {
+  width: 100%;
+  display: block;
+}
+.add-recipie-btn {
+  color: white;
+  background-color: hsl(200, 200%, 50%);
+}
+.add-recipie-btn:hover {
+  background-color: hsl(200, 200%, 35%);
+}

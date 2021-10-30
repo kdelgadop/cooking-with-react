@@ -1,0 +1,35 @@
+.recipie {
+  padding: 20px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid black;
+}
+.recipie:last-child {
+  border-bottom: none;
+  padding: 10px;
+}
+.recipie__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.recipie__title {
+  margin: 0;
+  font-size: 1.75rem;
+}
+.recipie__row {
+  margin-top: 10px;
+}
+.recipie__label {
+  margin-right: 5px;
+}
+.recipie__value {
+  font-weight: 300;
+}
+.recipie__value--indented {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.recipie__instructions {
+  white-space: pre-wrap;
+}

@@ -1,5 +1,5 @@
-# HERE IS THE DEPLOYED SITE LIVE: https://eloquent-galileo-09350d.netlify.app/
-
+# Here is the deploywed app:
+https://eloquent-galileo-09350d.netlify.app/
 
 
 

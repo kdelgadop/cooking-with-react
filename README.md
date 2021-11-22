@@ -1,4 +1,4 @@
-# Here is the deploywed app:
+# Here is the deployed app:
 https://eloquent-galileo-09350d.netlify.app/
 
 
